@@ -26,5 +26,7 @@ In this project, the objective was to observe and analyze the patterns and drivi
 * Differences in population and population density per region.
 
 
-## Data source
-* Kaggle (https://www.kaggle.com/datasets/jonbown/us-2020-traffic-accidents?resource=download&select=acc_19.csv)
+## Sources
+* Data: https://www.kaggle.com/datasets/jonbown/us-2020-traffic-accidents
+* Analytical User Manual for the dataset: https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813436
+* Seaborn: https://seaborn.pydata.org/index.html
