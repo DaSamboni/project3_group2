@@ -18,5 +18,9 @@ In this project, the objective was to observe and analyze the patterns and drivi
 * Seaborn
 
 
+## Limitations/Ethical Considerations
+*
+
+
 ## Data source
 * Kaggle (https://www.kaggle.com/datasets/jonbown/us-2020-traffic-accidents?resource=download&select=acc_19.csv)
