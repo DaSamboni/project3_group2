@@ -19,7 +19,11 @@ In this project, the objective was to observe and analyze the patterns and drivi
 
 
 ## Limitations/Ethical Considerations
-*
+* Only used data from 2019.
+* Didn’t investigate every detail regarding all the accidents
+   Ex: Weather, actions before accident, # of people/vehicles involved, and etc.
+* Not all accidents were reported, and some were reported with incomplete information.
+* Differences in population and population density per region.
 
 
 ## Data source
